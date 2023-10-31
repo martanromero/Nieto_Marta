@@ -1,6 +1,6 @@
 # Nieto_Marta
 Marta Nieto Romero
-Link al repositorio: 
+Link al repositorio: https://github.com/martanromero/Nieto_Marta/tree/main
 EJERCICIO 1) Pull request: es un mecanismo por el cual sugiero un cambio o hago una aportación a un repositorio remoto. A través de un fork y del clonado de el repositorio remoto puedo modificarlo y hacer un trabajo paralelo sin poder perjudicar el modelo incial puediendo colaborar varias personas sobre el mismo repositorio. Una vez hice las aportaciones me interesa incluirlo en el repositorio remoto desde el mio local. Así haré un pull request mandando mi aportación y esperando que el creador de la inicial la acepte modificando la primera.
 EJERCICIO 2) Una conflico de fusión al hacer un merge es un desajuste en los datos, esto significa que se dan una seria de conflictos ya sea con respecto al formato o al contenido. Para hacer un merge es importante que existan las menores diferencias posibles, en el caso de existir, buscamos que se haga un merge fusionando unos datos y una información que debe estar integrada en los dos. Para solucionarlo se deben modificar los documentos para hacerlos similares y que no exista conflicto.
 EJERCICIO 3) El procedimiento para fusionar dos ramas es en primer lugar tenerlas en el mismo directorio, una vez están localizadas en la misma carpeta, para que se pueda dar el merge además de pedirlo en el commit como git merge, se deben solucionar los conflictos y ya se podrían unificar las ramas.
